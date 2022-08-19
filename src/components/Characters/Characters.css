@@ -1,0 +1,19 @@
+h2 {
+  text-align: center;
+  margin: 10px;
+  color: black;
+  margin: 20px;
+}
+
+.titutlo {
+  background-color: #dfd440d6;
+  opacity: 80%;
+}
+
+.containercard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
